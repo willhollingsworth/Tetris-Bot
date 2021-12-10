@@ -8,7 +8,7 @@ tetris_screen = (tetris_screen_start[0],tetris_screen_start[1],
 tetris_grid = (10,20)
 
 
-# realative coordinates for each peice 
+# relative coordinates for each piece 
 # x -->   Y ^
 block_l = [[0,1],[1,-1],[1,0]]
 block_t = [[1,0],[-1,1],[-1,-1]]
